@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon_leave.svg_copy_2" data-name="icon_leave.svg copy 2" class="cls-1" d="M-0.051,13.113l5.563,5.562,1.414-1.414L3.664,14H19V12H3.664L6.926,8.738,5.512,7.324l-5.563,5.562L0.062,13ZM12,4a2,2,0,0,1,2-2h8a2,2,0,0,1,2,2V22a2,2,0,0,1-2,2H14a2,2,0,0,1-2-2V18H10v4a4,4,0,0,0,4,4h8a4,4,0,0,0,4-4V4a4,4,0,0,0-4-4H14a4,4,0,0,0-4,4V8h2V4Z"/>
+</svg>

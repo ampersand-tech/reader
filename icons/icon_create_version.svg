@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon_create_copy_5" data-name="icon_create copy 5" class="cls-1" d="M22,12H12V22H10V12H0V10H10V0h2V10H22v2Z"/>
+</svg>

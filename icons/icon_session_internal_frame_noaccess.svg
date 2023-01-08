@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="62" viewBox="0 0 42 62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon_Session_Frame_NoAccess" class="cls-1" d="M0,62V0H42V62H0ZM40,2H2V60H40V2ZM2.758,1.513L1.1,2.629l39,58,1.66-1.116Z"/>
+</svg>

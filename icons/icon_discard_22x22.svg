@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon_discard_22x22_merged" data-name="icon_discard_22x22 merged" class="cls-1" d="M16.914,15.469l4.754,4.754-1.414,1.414L15.5,16.883l-4.723,4.723L9.363,20.192l4.723-4.723L9.3,10.683l1.414-1.414L15.5,14.055,20.254,9.3l1.414,1.414ZM15,2H2V20H7v2H0V0H17V7H15V2Z"/>
+</svg>

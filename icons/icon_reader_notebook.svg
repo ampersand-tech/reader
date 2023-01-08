@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="43" viewBox="0 0 34 43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="notes_copy" data-name="notes copy" class="cls-1" d="M30,43H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0H30a4,4,0,0,1,4,4V39A4,4,0,0,1,30,43ZM32,4a2,2,0,0,0-2-2H4A2,2,0,0,0,2,4V39a2,2,0,0,0,2,2H30a2,2,0,0,0,2-2V4ZM6,33H28v2H6V33Zm0-8H28v2H6V25Zm0-8H28v2H6V17ZM6,9H28v2H6V9Z"/>
+</svg>

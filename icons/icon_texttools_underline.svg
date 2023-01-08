@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Underline_MERGED" data-name="Underline MERGED" class="cls-1" d="M4,26V24H22v2H4Zm16-9V16.7A9.358,9.358,0,0,1,12.969,20a8.956,8.956,0,0,1-8.94-8H4V0H6V12H6.029a6.981,6.981,0,0,0,6.94,6c3.421,0,6.7-2.645,7-6H20V0h2V20H21Z"/>
+</svg>

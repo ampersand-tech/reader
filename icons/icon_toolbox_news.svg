@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="26" viewBox="0 0 28 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #404755;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Nav_2_-_navy_copy_4" data-name="Nav 2 - navy copy 4" class="cls-1" d="M24,25.969H4c-2.209,0-4-2-4-5v-16c0-5,2.833-5,4-5H24a4,4,0,0,1,4,4v18A4,4,0,0,1,24,25.969Zm-6-24H4a2,2,0,0,0-2,2v18a2,2,0,0,0,2,2H18v-22Z"/>
+</svg>

@@ -1,0 +1,46 @@
+/*
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+*/
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 400;
+    src: local('☺'),
+        url(Noto+Serif_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/notoserif/v4/eCpfeMZI7q4jLksXVRWPQxsxEYwM7FgeyaSgU71cLG0.woff */
+        url(Noto+Serif_400_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/notoserif/v4/eCpfeMZI7q4jLksXVRWPQ8DdSZkkecOE1hvV7ZHvhyU.ttf */
+        url(Noto+Serif_400_normal.svg#Noto+Serif_400_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=eCpfeMZI7q4jLksXVRWPQ6WUboTb-jS2tyCOQMtm97g&skey=ff3f102bd67fc93c#NotoSerif */
+}
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    src: local('☺'),
+        url(Noto+Serif_700_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/notoserif/v4/lJAvZoKA5NttpPc9yc6lPQFhaRv2pGgT5Kf0An0s4MM.woff */
+        url(Noto+Serif_700_normal.ttf) format('truetype'); /* http://fonts.gstatic.com/s/notoserif/v4/lJAvZoKA5NttpPc9yc6lPcBaWKZ57bY3RXgXH6dOjZ0.ttf */
+}
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: italic;
+    font-weight: 400;
+    src: local('☺'),
+        url(Noto+Serif_400_italic.woff) format('woff'), /* http://fonts.gstatic.com/s/notoserif/v4/HQXBIwLHsOJCNEQeX9kNz3hCUOGz7vYGh680lGh-uXM.woff */
+        url(Noto+Serif_400_italic.ttf) format('truetype'); /* http://fonts.gstatic.com/s/notoserif/v4/HQXBIwLHsOJCNEQeX9kNz5S3E-kSBmtLoNJPDtbj2Pk.ttf */
+}
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: italic;
+    font-weight: 700;
+    src: local('☺'),
+        url(Noto+Serif_700_italic.woff) format('woff'), /* http://fonts.gstatic.com/s/notoserif/v4/Wreg0Be4tcFGM2t6VWytvHl4twXkwp3_u9ZoePkT564.woff */
+        url(Noto+Serif_700_italic.ttf) format('truetype'); /* http://fonts.gstatic.com/s/notoserif/v4/Wreg0Be4tcFGM2t6VWytvP83cGrqhiQgWmjXfohD0fc.ttf */
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" viewBox="0 0 51 51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="box_copy_4" data-name="box copy 4" class="cls-1" d="M43,51H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0H43a8,8,0,0,1,8,8V43A8,8,0,0,1,43,51ZM25,38a1,1,0,0,0,2,0V21a1,1,0,0,0-2,0V38Zm1-25a2,2,0,1,0,2,2A2,2,0,0,0,26,13Z"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="62" viewBox="0 0 42 62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon_Session_merged" data-name="icon_Session merged" class="cls-1" d="M8,49V47H34v2H8Zm0-9H34v2H8V40ZM33.239,13.783l-1.8,1.8-5.021-5.021,1.8-1.8a2,2,0,0,1,2.828,0l2.193,2.193A2,2,0,0,1,33.239,13.783Zm-21.21,14.4a1,1,0,0,0,0,1.414l0.328,0.328a1,1,0,0,0,1.414,0L28.59,15.1l1.665,1.665L16.733,30.289C14.847,32.175,8,34,8,34s1.825-6.847,3.711-8.733L25.233,11.746l1.614,1.614Z"/>
+</svg>

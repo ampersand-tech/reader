@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" viewBox="0 0 51 51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="_2px_merged" data-name="# 2px merged" class="cls-1" d="M48.667,17l-0.392,2h-12L33.529,33h12l-0.392,2h-12L30,51H27.625l3.137-16H17.137L14,51H11.625l3.137-16H2.137l0.392-2H15.154L17.9,19H5.275l0.392-2H18.292L21.625,0H24L20.667,17H34.292L37.625,0H40L36.667,17h12ZM20.275,19L17.529,33H31.154L33.9,19H20.275Z"/>
+</svg>
