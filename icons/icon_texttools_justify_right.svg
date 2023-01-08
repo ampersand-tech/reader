@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Jusitfy_R" data-name="Jusitfy R" class="cls-1" d="M0,26V24H26v2H0ZM8,16H26v2H8V16ZM4,8H26v2H4V8ZM14,0H26V2H14V0Z"/>
+</svg>

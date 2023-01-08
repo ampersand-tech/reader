@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Indent_Right" data-name="Indent Right" class="cls-1" d="M2,26V24H26v2H2ZM14,16H26v2H14V16Zm0-8H26v2H14V8ZM2,0H26V2H2V0ZM7.731,13.031C7.124,13.383,1.252,16.78.9,16.984A0.582,0.582,0,0,1,0,16.48V8.517a0.579,0.579,0,0,1,.876-0.5c0.518,0.287,6.416,3.744,6.853,4A0.581,0.581,0,0,1,7.731,13.031Z"/>
+</svg>

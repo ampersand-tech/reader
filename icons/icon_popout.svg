@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon_popout_copy_2" data-name="icon_popout copy 2" class="cls-1" d="M18.016,13.016V3.43L1.723,19.723,0.309,18.309,16.6,2.016H7.016v-2h13v13h-2Z"/>
+</svg>

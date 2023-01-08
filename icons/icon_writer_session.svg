@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="62" viewBox="0 0 42 62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon_branch_MERGED" data-name="icon_branch MERGED" class="cls-1" d="M0,62V0H42V62H0ZM40,2H2V60H40V2ZM14,18a3.992,3.992,0,0,1,1,7.858v8.6c3.867-3.306,12-.075,12-8.462V25.859a4,4,0,1,1,2,0V26c0,13-14,4-14,14v4H13V25.859A3.992,3.992,0,0,1,14,18Zm14,6a2,2,0,1,0-2-2A2,2,0,0,0,28,24ZM14,24a2,2,0,1,0-2-2A2,2,0,0,0,14,24Z"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="464" height="464" viewBox="0 0 464 464">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: aqua;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g>
+    <path d="M232.000,464.000 C103.870,464.000 -0.000,360.130 -0.000,232.000 C-0.000,103.870 103.870,-0.000 232.000,-0.000 C360.130,-0.000 464.000,103.870 464.000,232.000 C464.000,360.130 360.130,464.000 232.000,464.000 ZM232.000,24.000 C117.125,24.000 24.000,117.125 24.000,232.000 C24.000,346.875 117.125,440.000 232.000,440.000 C346.875,440.000 440.000,346.875 440.000,232.000 C440.000,117.125 346.875,24.000 232.000,24.000 Z" class="cls-1"/>
+    <rect x="95" y="151" width="26" height="26" rx="2" ry="2" class="cls-2"/>
+    <rect x="147" y="151" width="222" height="26" rx="2" ry="2" class="cls-2"/>
+    <rect x="95" y="215" width="26" height="26" rx="2" ry="2" class="cls-2"/>
+    <rect x="147" y="215" width="222" height="26" rx="2" ry="2" class="cls-2"/>
+    <rect x="95" y="278" width="26" height="26" rx="2" ry="2" class="cls-2"/>
+    <rect x="147" y="278" width="222" height="26" rx="2" ry="2" class="cls-2"/>
+  </g>
+</svg>

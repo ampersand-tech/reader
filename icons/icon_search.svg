@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="NEW_search_icon_copy" data-name="NEW search icon copy" class="cls-1" d="M10,20A10,10,0,1,1,20,10,10,10,0,0,1,10,20ZM10,2a8,8,0,1,0,8,8A8,8,0,0,0,10,2ZM26.723,25.309l-1.414,1.414-8-8,1.414-1.414Z"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Bullets_MERGED" data-name="Bullets MERGED" class="cls-1" d="M14,22V20H26v2H14ZM14,4H26V6H14V4ZM4.5,26A4.5,4.5,0,1,1,9,21.5,4.5,4.5,0,0,1,4.5,26Zm0-17A4.5,4.5,0,1,1,9,4.5,4.5,4.5,0,0,1,4.5,9Z"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon_link_MERGED" data-name="icon_link MERGED" class="cls-1" d="M22,17V15a2,2,0,0,0,2-2V4a2,2,0,0,0-2-2H11A2,2,0,0,0,9,4v9a2,2,0,0,0,2,2h3v2H11a4,4,0,0,1-4-4V4a4,4,0,0,1,4-4H22a4,4,0,0,1,4,4v9A4,4,0,0,1,22,17ZM4,24H15a2,2,0,0,0,2-2V13a2.151,2.151,0,0,0-2-2H12V9h3a4,4,0,0,1,4,4v9a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V13A4,4,0,0,1,4,9v2a2,2,0,0,0-2,2v9A2,2,0,0,0,4,24Z"/>
+</svg>

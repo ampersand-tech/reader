@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Justify_C" data-name="Justify C" class="cls-1" d="M0,26V24H26v2H0Zm4-8V16H22v2H4ZM2,8H24v2H2V8ZM7,0H19V2H7V0Z"/>
+</svg>

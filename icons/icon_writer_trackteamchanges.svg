@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+<defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon_TrackTeamChanges_MERGED" data-name="icon_TrackTeamChanges MERGED" class="cls-1" d="M17.469,24h0l-2,2-2-2h0L9.875,20.406l2-2L15.469,22l8.469-8.469,2,2ZM0,12H19v2H0V12ZM0,6H19V8H0V6ZM0,0H19V2H0V0ZM8,20H0V18H8v2Zm0,6H0V24H8v2Z"/>
+</svg>

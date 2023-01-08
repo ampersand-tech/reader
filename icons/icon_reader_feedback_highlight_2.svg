@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" viewBox="0 0 51 51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon_highlight_copy_2" data-name="icon_highlight copy 2" class="cls-1" d="M39.561,44.667a4,4,0,0,1-5.657,0L12.833,23.6a4,4,0,0,1,0-5.657L30.772,0H33.6L14.247,19.354a2,2,0,0,0,0,2.828L35.318,43.253a2,2,0,0,0,2.829,0L51,30.4v2.828ZM27.5,43.116L20,51H3.885c-3.8,0-5.681-3.923-1.959-7.652,8.11-8.124,12.87-12.963,12.87-12.963Z"/>
+</svg>

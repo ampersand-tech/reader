@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="SUBscript_copy_2" data-name="SUBscript copy 2" class="cls-1" d="M22,24h4l-0.028,2.015L19,26V24s5-3,5-5a2.151,2.151,0,0,0-2-2,2.259,2.259,0,0,0-2,2l-1.531-1.562C18.469,16.549,19.808,15,22,15a3.812,3.812,0,0,1,4,4C26,22,22,24,22,24Zm-8.964-8H3.964L1.993,22H-0.073L7.194-.014H9.806L17.073,22H15.007ZM8.5,2.193L4.621,14h7.757Z"/>
+</svg>
